@@ -22,6 +22,10 @@ A connector is composed of 3 main things:
   * An example flow demonstrating your connector
   * In case your connector leverages a third-party service, there will need to be a test account provided such that integration tests can be run to demonstrate end-to-end viability of your code
 
+# Generating the connector code
+Use the Davinci project generator to create the code for this connector
+https://davinci.pingidentity.cloud/generator
+
 # Starting the connector
 Click on the fourth icon from the top in the left navbar ( Run and Debug )
 Once the drawer opens, at the top of the drawer there should be a little green "play" button icon, click it.
