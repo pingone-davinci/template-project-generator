@@ -1,4 +1,4 @@
-# Connector Example
+# Connector Using Project Generator
 
 ## Overview:
 This example connector is here to help get you started with the development on the DaVinci platform and understand the architecture.
@@ -23,7 +23,7 @@ A connector is composed of 3 main things:
   * In case your connector leverages a third-party service, there will need to be a test account provided such that integration tests can be run to demonstrate end-to-end viability of your code
 
 # Generating the connector code
-Use the Davinci project generator to create the code for this connector
+Use the Davinci project generator to create the code for this connector.
 https://davinci.pingidentity.cloud/generator
 
 # Starting the connector
